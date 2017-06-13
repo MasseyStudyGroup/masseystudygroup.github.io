@@ -17,9 +17,16 @@
   interests:
 
 - name: Patrick Rynhart
-  affiliation: ITS
+  email: P.Rynhart@massey.ac.nz
+  affiliation: Information Technology Services (ITS)
+  position: Systems Engineer (Technical Applications)
   github: prynhart
+  description: "Former PhD Student and Postdoc within IFS - now working as a Systems Engineer \
+                and E-Research Liason at Massey ITS."
   interests:
+   # - High Performance Computing
+   # - eResearch Support
+   # - Onboarding new researchers!
 
 - name: Reed Hranac
   affiliation: Ecology
